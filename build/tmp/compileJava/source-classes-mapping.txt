@@ -1,7 +1,7 @@
-cc/stud/GraduateStudent.java
- cc.stud.GraduateStudent
-cc/stud/Student.java
- cc.stud.Student
+cc/cust/Detail.java
+ cc.cust.Detail
+cc/stud/Employee.java
+ cc.stud.Employee
 cc/stud/Mailer.java
  cc.stud.Mailer
 cc/rpg/Soldier.java
@@ -10,9 +10,15 @@ cc/cust/Customer.java
  cc.cust.Customer
 cc/rpg/Villager.java
  cc.rpg.Villager
+cc/stud/GraduateStudent.java
+ cc.stud.GraduateStudent
+cc/stud/Student.java
+ cc.stud.Student
+cc/box/Box3.java
+ cc.box.Box3
+cc/box/Tester2.java
+ cc.box.Tester2
 cc/stud/Tester.java
  cc.stud.Tester
-cc/stud/Employee.java
- cc.stud.Employee
-cc/cust/Detail.java
- cc.cust.Detail
+cc/box/Box.java
+ cc.box.Box
