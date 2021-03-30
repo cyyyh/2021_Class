@@ -1,0 +1,18 @@
+cc/stud/GraduateStudent.java
+ cc.stud.GraduateStudent
+cc/stud/Student.java
+ cc.stud.Student
+cc/stud/Mailer.java
+ cc.stud.Mailer
+cc/rpg/Soldier.java
+ cc.rpg.Soldier
+cc/cust/Customer.java
+ cc.cust.Customer
+cc/rpg/Villager.java
+ cc.rpg.Villager
+cc/stud/Tester.java
+ cc.stud.Tester
+cc/stud/Employee.java
+ cc.stud.Employee
+cc/cust/Detail.java
+ cc.cust.Detail
