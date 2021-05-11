@@ -48,15 +48,17 @@ com/test/Box.java
  com.test.Box
 com/test/Box3.java
  com.test.Box3
-com/collection/Tester.java
- com.collection.Tester
+com/anon/Printer.java
+ com.anon.Printer
 com/anon/Reporter.java
  com.anon.Reporter
 com/anon/WeatherReporter.java
  com.anon.WeatherReporter
-com/anon/Printer.java
- com.anon.Printer
+com/collection/Tester.java
+ com.collection.Tester
 com/anon/Tester.java
  com.anon.Tester
+ com.anon.Tester$1
+ com.anon.Tester$2
 com/anon/HeheheReporter.java
  com.anon.HeheheReporter

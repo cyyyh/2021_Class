@@ -11,7 +11,7 @@ import java.util.TreeSet;
 
 public class Tester {
     public static void main(String[] args) {
-        TreeSet<String> aa = new TreeSet<>();
+        TreeSet<String> aa = new TreeSet<>();//treeset不排序
         System.out.println(aa.size());
         aa.add("Cynthia");
         aa.add("Jerry");
