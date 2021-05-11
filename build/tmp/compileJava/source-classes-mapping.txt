@@ -28,21 +28,25 @@ cc/box/Box3.java
  cc.box.Box3
 cc/box/Box.java
  cc.box.Box
-com/test/Box00.java
- com.test.Box00
-com/test/Box02.java
- com.test.Box02
-com/test/Box03.java
- com.test.Box03
-com/test/Box06.java
- com.test.Box06
-com/test/Box01.java
- com.test.Box01
-com/test/Box05.java
- com.test.Box05
-com/test/Box04.java
- com.test.Box04
-com/test/BetterTester.java
- com.test.BetterTester
+com/practice/List.java
+ com.practice.List
 com/test/TesterBox.java
  com.test.TesterBox
+com/test/Box1.java
+ com.test.Box1
+com/test/Box4.java
+ com.test.Box4
+com/test/Box6.java
+ com.test.Box6
+com/test/Box2.java
+ com.test.Box2
+com/test/BetterTester.java
+ com.test.BetterTester
+com/test/Box5.java
+ com.test.Box5
+com/test/Box.java
+ com.test.Box
+com/test/Box3.java
+ com.test.Box3
+com/collection/Tester.java
+ com.collection.Tester
