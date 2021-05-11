@@ -8,23 +8,41 @@ cc/rpg/Soldier.java
  cc.rpg.Soldier
 cc/stud/Employee.java
  cc.stud.Employee
-cc/box/Box.java
- cc.box.Box
+cc/stud/Tester.java
+ cc.stud.Tester
 cc/stud/Student.java
  cc.stud.Student
-cc/box/Box3.java
- cc.box.Box3
+cc/racing/HorseRunnable.java
+ cc.racing.HorseRunnable
 cc/box/Tester2.java
  cc.box.Tester2
 cc/cust/Customer.java
  cc.cust.Customer
 cc/rpg/Villager.java
  cc.rpg.Villager
-cc/stud/Tester.java
- cc.stud.Tester
-cc/racing/Horse.java
- cc.racing.Horse
 cc/racing/Racing.java
  cc.racing.Racing
-cc/racing/HorseRunnable.java
- cc.racing.HorseRunnable
+cc/racing/Horse.java
+ cc.racing.Horse
+cc/box/Box3.java
+ cc.box.Box3
+cc/box/Box.java
+ cc.box.Box
+com/test/Box00.java
+ com.test.Box00
+com/test/Box02.java
+ com.test.Box02
+com/test/Box03.java
+ com.test.Box03
+com/test/Box06.java
+ com.test.Box06
+com/test/Box01.java
+ com.test.Box01
+com/test/Box05.java
+ com.test.Box05
+com/test/Box04.java
+ com.test.Box04
+com/test/BetterTester.java
+ com.test.BetterTester
+com/test/TesterBox.java
+ com.test.TesterBox
