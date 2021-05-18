@@ -1,18 +1,18 @@
 package cc.box;
 
-public class Box3 extends Box{
-    public Box3(){
+public class Box4 extends Box{
+    public Box4(){
         length = 15;
-        width = 10;
+        width = 15;
         height = 10;
     }
     @Override
     public String getName(){
-        return "Box3";
+        return "Box4";
     }
     @Override
     public  int getPrice(){
-        return 60;
+        return 70;
     }
 
 }

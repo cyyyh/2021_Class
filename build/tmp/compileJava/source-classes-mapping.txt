@@ -14,8 +14,8 @@ cc/stud/Student.java
  cc.stud.Student
 cc/racing/HorseRunnable.java
  cc.racing.HorseRunnable
-cc/box/Tester2.java
- cc.box.Tester2
+com/anon/HeheheReporter.java
+ com.anon.HeheheReporter
 cc/cust/Customer.java
  cc.cust.Customer
 cc/rpg/Villager.java
@@ -24,41 +24,47 @@ cc/racing/Racing.java
  cc.racing.Racing
 cc/racing/Horse.java
  cc.racing.Horse
-cc/box/Box3.java
- cc.box.Box3
+com/anon/Reporter.java
+ com.anon.Reporter
 cc/box/Box.java
  cc.box.Box
-com/practice/List.java
- com.practice.List
-com/test/TesterBox.java
- com.test.TesterBox
-com/test/Box1.java
- com.test.Box1
+com/anon/Tester.java
+ com.anon.Tester
+ com.anon.Tester$1
+ com.anon.Tester$2
+com/anon/Printer.java
+ com.anon.Printer
+com/collection/Tester.java
+ com.collection.Tester
 com/test/Box4.java
  com.test.Box4
 com/test/Box6.java
  com.test.Box6
 com/test/Box2.java
  com.test.Box2
-com/test/BetterTester.java
- com.test.BetterTester
+com/anon/WeatherReporter.java
+ com.anon.WeatherReporter
 com/test/Box5.java
  com.test.Box5
 com/test/Box.java
  com.test.Box
 com/test/Box3.java
  com.test.Box3
-com/anon/Printer.java
- com.anon.Printer
-com/anon/Reporter.java
- com.anon.Reporter
-com/anon/WeatherReporter.java
- com.anon.WeatherReporter
-com/collection/Tester.java
- com.collection.Tester
-com/anon/Tester.java
- com.anon.Tester
- com.anon.Tester$1
- com.anon.Tester$2
-com/anon/HeheheReporter.java
- com.anon.HeheheReporter
+com/practice/List.java
+ com.practice.List
+com/test/Box1.java
+ com.test.Box1
+com/test/TesterBox.java
+ com.test.TesterBox
+com/test/BetterTester.java
+ com.test.BetterTester
+cc/box/Box1.java
+ cc.box.Box1
+cc/box/Box4.java
+ cc.box.Box4
+cc/box/Tester.java
+ cc.box.Tester
+cc/box/Box3.java
+ cc.box.Box3
+cc/box/Box2.java
+ cc.box.Box2

@@ -8,4 +8,5 @@ public class Box1 extends Box {
         name = "Box01";
         price = 40;
     }
+
 }
