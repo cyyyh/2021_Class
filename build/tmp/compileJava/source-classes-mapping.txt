@@ -62,9 +62,23 @@ cc/box/Box1.java
  cc.box.Box1
 cc/box/Box4.java
  cc.box.Box4
-cc/box/Tester.java
- cc.box.Tester
-cc/box/Box3.java
- cc.box.Box3
 cc/box/Box2.java
  cc.box.Box2
+cc/box/Box3.java
+ cc.box.Box3
+cc/box/Tester.java
+ cc.box.Tester
+cc/snowing/MainWin.java
+ cc.snowing.MainWin
+cc/snowing/Snowing.java
+ cc.snowing.Snowing
+cc/snowing/SnowCanvas.java
+ cc.snowing.SnowCanvas
+cc/snowing/Snow.java
+ cc.snowing.Snow
+cc/car/MapTester.java
+ cc.car.MapTester
+cc/car/Tester.java
+ cc.car.Tester
+cc/car/Car.java
+ cc.car.Car
