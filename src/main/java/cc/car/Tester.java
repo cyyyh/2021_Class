@@ -2,29 +2,29 @@ package cc.car;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.List;
+import java.util.*;
 
 public class Tester {
     public static void main(String[] args) {
         int fee = 30;
-        List<Car> cars = new ArrayList<>();
+        Map<String, Car> cars = new HashMap<>();
 
         Car c1 = new Car("abc-123", "07:30");
         Car c2 = new Car("efg-456", "09:45");
         Car c3 = new Car("xyz-789", "10:10");
-        cars.add(c1);
-        cars.add(c2);
-        cars.add(c3);
 
+        cars.put(c1.id, c1);
+        cars.put(c2.id, c2);
+        cars.put(c3.id, c3);
         String id = "abc-123";
-        for (Car c : cars) {   //for each
-            if(c.id.equals(id)){
-                break;
-            }
-
+        Car car = cars.get(id);
+        if (car == null){
+            System.out.println("Car not found");
+        } else {
+            Date now = new Date();
+            long ms = now.getTime() - car.enter.getTime();
+            long mins = ms/(1000*60);
+            System.out.println(mins);
         }
 
 

@@ -15,8 +15,8 @@ public class Car {
         //"07:30"
         Calendar now = Calendar.getInstance();
         String[] tokens = time.split(":");
-        System.out.println("t0" + tokens[0]);
-        System.out.println("t1" + tokens[1]);
+        System.out.println("t0 " + tokens[0]);
+        System.out.println("t1 " + tokens[1]);
         now.set(Calendar.HOUR_OF_DAY, Integer.parseInt(tokens[0]));
         now.set(Calendar.MINUTE, Integer.parseInt(tokens[1]));
         enter = now.getTime();
