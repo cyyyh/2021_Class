@@ -7,25 +7,25 @@
     <properties/>
     <border type="none"/>
     <children>
-      <grid id="f510b" binding="northPanel" layout-manager="BorderLayout" hgap="0" vgap="0">
-        <constraints border-constraint="Center"/>
+      <grid id="d4db9" binding="northPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints border-constraint="North"/>
         <properties/>
         <border type="none"/>
         <children>
-          <component id="e2110" class="javax.swing.JButton" binding="button1" default-binding="true">
-            <constraints border-constraint="North"/>
+          <component id="2942" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+            <constraints/>
+            <properties>
+              <columns value="30"/>
+            </properties>
+          </component>
+          <component id="5db2a" class="javax.swing.JButton" binding="button1" default-binding="true">
+            <constraints/>
             <properties>
               <text value="Button"/>
             </properties>
           </component>
         </children>
       </grid>
-      <component id="ffaea" class="javax.swing.JTextField" binding="textField1" default-binding="true">
-        <constraints border-constraint="North"/>
-        <properties>
-          <columns value="30"/>
-        </properties>
-      </component>
     </children>
   </grid>
 </form>
