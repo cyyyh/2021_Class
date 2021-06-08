@@ -86,3 +86,5 @@ cc/racing/Horse.java
  cc.racing.Horse
 cc/car/CarDemo.java
  cc.car.CarDemo
+cc/net/Tester.java
+ cc.net.Tester
