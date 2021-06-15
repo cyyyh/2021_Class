@@ -10,14 +10,20 @@ public class Tester {
         try{
             Socket socket = new Socket("ptt.cc", 23);
             InputStream is = socket.getInputStream();
-            int data = is.read();
+
+/*            int data = is.read();
             System.out.println(data);
             //72 的 ASCII碼 ？
             data = is.read();
             System.out.println(data);
             data = is.read();
-            System.out.println(data);
+            System.out.println(data);   */
 
+            for (int i = 0; i < 10; i++) {
+                int data = is.read();
+                System.out.println((char)data);
+
+            }
         } catch (IOException e) {
             e.printStackTrace();
         }
